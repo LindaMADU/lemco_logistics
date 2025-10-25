@@ -1,0 +1,439 @@
+Transaction_ID,Date,Customer_ID,Product_ID,Sales_Channel,Order_Priority,Warehouse_Code,Ship_Mode,Delivery_Status,Customer_Satisfaction,Item_Returned,Return_Reason,Payment_Type,Taxable,Region,Country
+989,2025-10-25 12:58:24,1077,535,Direct,Critical,WH-1,Overnight,Pending,Unsatisfied,True,Damaged,PayPal,True,West,Canada
+682,2025-10-25 03:14:36,1027,546,Reseller,Medium,WH-1,Express,Pending,Unsatisfied,False,Wrong Item,Cash,True,South,Canada
+484,2025-10-25 08:06:30,1052,556,Direct,Low,WH-2,2-Day,Delivered,Satisfied,True,Late,Cash,False,South,Mexico
+483,2025-10-25 11:21:06,1074,549,Reseller,Medium,WH-3,2-Day,Backorder,Unsatisfied,True,Not Specified,PayPal,False,South,USA
+757,2025-10-25 11:21:06,1061,547,Direct,Critical,WH-3,Express,Cancelled,Neutral,False,Late,Credit Card,True,South,Canada
+459,2025-10-25 16:13:00,1040,529,Partner,Critical,WH-3,Overnight,Pending,Unsatisfied,True,Late,Credit Card,False,South,USA
+417,2025-10-25 11:21:06,1076,555,Partner,High,WH-3,Express,Backorder,Unsatisfied,False,Damaged,Credit Card,True,West,Canada
+367,2025-10-25 16:13:00,1097,524,Partner,Critical,WH-3,Express,Delivered,Unsatisfied,False,Wrong Item,Credit Card,False,East,Canada
+233,2025-10-25 11:21:06,1070,508,Reseller,Medium,WH-1,Overnight,Delivered,Unsatisfied,True,Late,Credit Card,False,North,Mexico
+770,2025-10-25 17:50:18,1021,510,Direct,Medium,WH-1,2-Day,Delivered,Neutral,True,Late,Credit Card,False,North,Canada
+387,2025-10-25 17:50:18,1036,515,Online,High,WH-1,Express,Backorder,Neutral,True,Wrong Item,Credit Card,False,South,Canada
+641,2025-10-25 04:51:54,1099,549,Direct,Low,WH-1,Express,Cancelled,Unsatisfied,False,Damaged,Credit Card,True,West,USA
+278,2025-10-25 12:58:24,1020,542,Partner,Low,WH-1,Regular,Pending,Satisfied,False,Late,Cash,True,North,Mexico
+649,2025-10-25 21:04:54,1096,535,Partner,Low,WH-3,Overnight,Backorder,Satisfied,False,Damaged,Cash,True,South,Mexico
+871,2025-10-25 16:13:00,1018,521,Partner,High,WH-2,Overnight,Pending,Unsatisfied,True,Damaged,Credit Card,True,West,USA
+744,2025-10-25 04:51:54,1025,542,Direct,High,WH-3,Regular,Pending,Satisfied,True,Not Specified,Credit Card,True,North,Mexico
+375,2025-10-25 22:42:12,1006,524,Direct,Critical,WH-2,Regular,Backorder,Neutral,False,Late,Credit Card,True,North,Mexico
+717,2025-10-25 22:42:12,1054,528,Partner,High,WH-3,Regular,Pending,Satisfied,True,Not Specified,Credit Card,False,West,USA
+228,2025-10-25 17:50:18,1070,525,Partner,Low,WH-2,2-Day,Delivered,Neutral,True,Not Specified,Credit Card,False,South,USA
+612,2025-10-25 14:35:42,1007,538,Direct,High,WH-2,Regular,Cancelled,Neutral,True,Not Specified,Cash,True,South,Canada
+234,2025-10-25 01:37:18,1070,511,Reseller,High,WH-1,Express,Cancelled,Satisfied,False,Not Specified,Cash,True,West,Mexico
+50,2025-10-25 19:27:36,1092,545,Online,Critical,WH-2,Regular,Delivered,Unsatisfied,True,Late,Wire Transfer,False,West,Mexico
+8,2025-10-25 19:27:36,1085,536,Partner,Medium,WH-3,Regular,Backorder,Satisfied,True,Damaged,Cash,False,West,Canada
+804,2025-10-25 08:06:30,1082,533,Online,Low,WH-3,Overnight,Cancelled,Satisfied,False,Not Specified,PayPal,False,East,Canada
+875,2025-10-25 11:21:06,1048,550,Reseller,High,WH-1,2-Day,Delivered,Unsatisfied,True,Wrong Item,Wire Transfer,True,West,Canada
+336,2025-10-25 00:00:00,1011,553,Partner,Low,WH-1,Express,Pending,Neutral,True,Damaged,PayPal,True,North,USA
+54,2025-10-25 22:42:12,1026,519,Online,Low,WH-1,Express,Pending,Neutral,False,Wrong Item,Cash,False,East,Canada
+169,2025-10-25 19:27:36,1099,560,Reseller,Low,WH-1,Overnight,Pending,Neutral,False,Late,Credit Card,True,North,Canada
+801,2025-10-25 11:21:06,1059,535,Direct,Critical,WH-1,Overnight,Backorder,Unsatisfied,True,Late,Wire Transfer,False,West,USA
+853,2025-10-25 03:14:36,1093,503,Partner,Medium,WH-1,Regular,Delivered,Unsatisfied,False,Not Specified,PayPal,False,West,USA
+211,2025-10-25 17:50:18,1018,524,Online,High,WH-2,2-Day,Cancelled,Satisfied,False,Damaged,Credit Card,False,East,USA
+493,2025-10-25 08:06:30,1038,520,Online,Low,WH-3,Express,Delivered,Satisfied,True,Not Specified,Credit Card,False,South,Canada
+916,2025-10-25 04:51:54,1005,508,Direct,Medium,WH-1,Overnight,Backorder,Satisfied,False,Late,Wire Transfer,False,South,Canada
+88,2025-10-25 17:50:18,1052,514,Partner,Medium,WH-3,2-Day,Cancelled,Neutral,False,Late,Credit Card,True,East,USA
+885,2025-10-25 11:21:06,1059,544,Online,Low,WH-2,Regular,Cancelled,Neutral,True,Late,PayPal,False,West,USA
+462,2025-10-25 17:50:18,1011,530,Reseller,High,WH-2,Express,Pending,Satisfied,False,Late,Wire Transfer,False,North,USA
+301,2025-10-25 17:50:18,1040,547,Partner,Medium,WH-3,2-Day,Backorder,Satisfied,False,Damaged,Cash,True,South,Canada
+528,2025-10-25 14:35:42,1061,531,Partner,High,WH-1,Express,Cancelled,Satisfied,True,Late,Cash,False,West,Mexico
+787,2025-10-25 06:29:12,1016,560,Online,High,WH-2,Regular,Backorder,Unsatisfied,True,Wrong Item,PayPal,False,South,USA
+762,2025-10-25 21:04:54,1047,554,Online,Medium,WH-1,Express,Cancelled,Unsatisfied,True,Damaged,PayPal,True,South,Mexico
+614,2025-10-25 06:29:12,1023,506,Direct,High,WH-3,2-Day,Pending,Unsatisfied,False,unknown,Wire Transfer,True,North,Canada
+460,2025-10-25 21:04:54,1041,510,Partner,High,WH-3,Regular,Delivered,Neutral,False,Damaged,Cash,True,West,Mexico
+10,2025-10-25 09:43:48,1063,538,Online,High,WH-3,Regular,Backorder,Unsatisfied,True,Not Specified,Wire Transfer,False,South,Mexico
+525,2025-10-25 14:35:42,1086,529,Reseller,Critical,WH-2,Express,Delivered,Unsatisfied,True,Wrong Item,Credit Card,True,West,USA
+245,2025-10-25 09:43:48,1003,516,Direct,Critical,WH-1,Express,Pending,Neutral,True,Late,Credit Card,False,East,USA
+346,2025-10-25 09:43:48,1026,537,Partner,Critical,WH-2,Overnight,Delivered,Satisfied,False,Damaged,Wire Transfer,False,South,USA
+378,2025-10-25 11:21:06,1051,551,Reseller,Low,WH-2,2-Day,Delivered,Satisfied,False,Wrong Item,PayPal,True,South,USA
+458,2025-10-25 12:58:24,1078,510,Partner,Low,WH-2,Overnight,Cancelled,Neutral,False,Not Specified,PayPal,True,West,USA
+831,2025-10-25 03:14:36,1025,539,Direct,Medium,WH-1,Regular,Backorder,Satisfied,False,Late,Cash,False,North,Canada
+626,2025-10-25 17:50:18,1020,507,Partner,Critical,WH-1,Overnight,Cancelled,Satisfied,False,Wrong Item,Wire Transfer,False,South,Mexico
+311,2025-10-25 21:04:54,1024,526,Reseller,High,WH-3,Express,Backorder,Unsatisfied,False,Not Specified,Cash,False,South,Mexico
+627,2025-10-25 01:37:18,1011,525,Direct,Medium,WH-1,Overnight,Cancelled,Satisfied,False,Wrong Item,Cash,False,North,Canada
+724,2025-10-25 21:04:54,1033,518,Reseller,Medium,WH-2,2-Day,Backorder,Satisfied,False,Late,Credit Card,True,South,USA
+45,2025-10-25 08:06:30,1004,540,Reseller,High,WH-1,Regular,Delivered,Neutral,False,Wrong Item,Cash,True,West,Mexico
+327,2025-10-25 06:29:12,1035,558,Online,Low,WH-1,Overnight,Cancelled,Neutral,False,Late,PayPal,False,North,Canada
+890,2025-10-25 19:27:36,1039,534,Partner,High,WH-1,Express,Cancelled,Neutral,True,Wrong Item,Cash,True,West,Canada
+509,2025-10-25 08:06:30,1070,505,Reseller,Medium,WH-1,2-Day,Cancelled,Neutral,False,Late,Wire Transfer,True,East,Mexico
+735,2025-10-25 11:21:06,1073,544,Reseller,High,WH-1,Express,Cancelled,Neutral,False,Not Specified,Wire Transfer,False,East,Mexico
+684,2025-10-25 21:04:54,1031,544,Reseller,Critical,WH-2,Regular,Pending,Unsatisfied,False,Damaged,Cash,True,North,Canada
+730,2025-10-25 08:06:30,1062,525,Reseller,Medium,WH-1,Express,Backorder,Unsatisfied,True,Damaged,PayPal,False,South,Canada
+931,2025-10-25 08:06:30,1088,544,Reseller,High,WH-2,Express,Cancelled,Unsatisfied,False,Wrong Item,PayPal,True,South,USA
+882,2025-10-25 12:58:24,1088,506,Reseller,Low,WH-2,Regular,Backorder,Satisfied,False,Damaged,Credit Card,True,West,USA
+591,2025-10-25 04:51:54,1092,528,Direct,Critical,WH-2,Overnight,Backorder,Unsatisfied,True,unknown,Wire Transfer,False,East,Canada
+122,2025-10-25 01:37:18,1004,529,Reseller,Medium,WH-3,Overnight,Backorder,Unsatisfied,False,Wrong Item,Cash,False,North,USA
+620,2025-10-25 11:21:06,1060,519,Direct,Low,WH-2,Overnight,Cancelled,Unsatisfied,False,Late,PayPal,True,East,Mexico
+354,2025-10-25 03:14:36,1072,551,Online,Low,WH-3,2-Day,Cancelled,Neutral,True,Wrong Item,PayPal,False,South,Mexico
+697,2025-10-25 06:29:12,1092,525,Partner,High,WH-1,Express,Cancelled,Satisfied,False,unknown,Cash,True,West,USA
+829,2025-10-25 16:13:00,1093,542,Online,Medium,WH-1,Overnight,Delivered,Neutral,True,Wrong Item,Credit Card,True,West,USA
+128,2025-10-25 22:42:12,1027,547,Direct,Critical,WH-1,2-Day,Pending,Satisfied,True,Not Specified,Wire Transfer,True,North,USA
+789,2025-10-25 00:00:00,1017,510,Reseller,Low,WH-3,Express,Pending,Neutral,True,Not Specified,Wire Transfer,False,East,USA
+70,2025-10-25 06:29:12,1085,532,Online,Low,WH-1,Regular,Delivered,Satisfied,True,Late,PayPal,False,South,Canada
+777,2025-10-25 16:13:00,1082,516,Online,Medium,WH-2,Overnight,Pending,Unsatisfied,False,Damaged,Cash,False,South,USA
+379,2025-10-25 16:13:00,1072,532,Direct,Medium,WH-1,2-Day,Delivered,Neutral,False,unknown,PayPal,True,West,Mexico
+976,2025-10-25 08:06:30,1081,515,Direct,Low,WH-3,Overnight,Pending,Unsatisfied,False,Not Specified,Wire Transfer,False,East,Mexico
+884,2025-10-25 17:50:18,1012,523,Reseller,Critical,WH-3,Overnight,Pending,Unsatisfied,False,Late,Cash,False,North,USA
+706,2025-10-25 19:27:36,1036,519,Partner,High,WH-3,2-Day,Cancelled,Satisfied,False,Late,Cash,True,North,Mexico
+38,2025-10-25 04:51:54,1085,532,Direct,Low,WH-3,2-Day,Delivered,Satisfied,False,Damaged,PayPal,False,West,USA
+135,2025-10-25 11:21:06,1021,517,Direct,Medium,WH-2,2-Day,Pending,Unsatisfied,False,Not Specified,Cash,False,South,Mexico
+107,2025-10-25 22:42:12,1034,558,Partner,High,WH-2,Express,Pending,Neutral,False,Wrong Item,PayPal,True,East,USA
+23,2025-10-25 16:13:00,1006,532,Direct,High,WH-1,Overnight,Backorder,Neutral,False,Not Specified,PayPal,True,South,Canada
+527,2025-10-25 06:29:12,1063,539,Partner,Low,WH-3,2-Day,Cancelled,Satisfied,False,Late,Wire Transfer,True,South,Canada
+704,2025-10-25 11:21:06,1051,513,Online,Critical,WH-3,Express,Backorder,Satisfied,False,Wrong Item,Credit Card,False,East,USA
+968,2025-10-25 03:14:36,1070,526,Partner,Low,WH-1,2-Day,Cancelled,Satisfied,False,unknown,Credit Card,True,West,USA
+876,2025-10-25 08:06:30,1065,503,Direct,Critical,WH-1,Regular,Delivered,Unsatisfied,True,Not Specified,Wire Transfer,True,East,Mexico
+179,2025-10-25 03:14:36,1078,550,Direct,Critical,WH-1,2-Day,Cancelled,Unsatisfied,False,Wrong Item,PayPal,False,East,Mexico
+543,2025-10-25 16:13:00,1049,560,Reseller,Critical,WH-1,Overnight,Cancelled,Neutral,False,Damaged,Credit Card,True,South,USA
+377,2025-10-25 09:43:48,1007,549,Online,High,WH-3,2-Day,Cancelled,Neutral,False,unknown,Cash,False,North,Canada
+584,2025-10-25 16:13:00,1087,516,Online,Medium,WH-1,2-Day,Delivered,Unsatisfied,True,Damaged,PayPal,False,South,USA
+478,2025-10-25 14:35:42,1021,547,Direct,Medium,WH-2,Regular,Pending,Satisfied,False,Not Specified,PayPal,False,South,USA
+962,2025-10-25 14:35:42,1038,509,Direct,Low,WH-1,Overnight,Delivered,Unsatisfied,True,Not Specified,Cash,False,North,Mexico
+235,2025-10-25 03:14:36,1004,522,Direct,Critical,WH-3,Overnight,Cancelled,Unsatisfied,False,Late,PayPal,True,North,Mexico
+693,2025-10-25 22:42:12,1045,547,Online,Medium,WH-1,Overnight,Cancelled,Satisfied,True,Wrong Item,Cash,False,East,Mexico
+966,2025-10-25 16:13:00,1090,552,Direct,Medium,WH-1,Regular,Backorder,Neutral,True,Not Specified,Wire Transfer,False,South,Mexico
+883,2025-10-25 01:37:18,1068,502,Direct,Medium,WH-1,2-Day,Pending,Unsatisfied,False,Late,PayPal,False,West,Mexico
+842,2025-10-25 00:00:00,1030,538,Reseller,Medium,WH-2,Overnight,Pending,Neutral,False,Late,Wire Transfer,False,West,Mexico
+108,2025-10-25 12:58:24,1006,523,Online,Critical,WH-3,Regular,Backorder,Unsatisfied,False,Not Specified,Cash,True,North,USA
+901,2025-10-25 01:37:18,1052,529,Direct,Critical,WH-2,Overnight,Pending,Unsatisfied,True,Not Specified,Credit Card,False,South,USA
+754,2025-10-25 17:50:18,1044,556,Online,High,WH-2,Regular,Backorder,Satisfied,True,Not Specified,Wire Transfer,True,West,USA
+949,2025-10-25 08:06:30,1098,534,Direct,Critical,WH-3,Express,Cancelled,Unsatisfied,False,Damaged,Cash,True,East,Canada
+793,2025-10-25 04:51:54,1086,536,Online,Medium,WH-2,2-Day,Cancelled,Satisfied,True,Not Specified,Credit Card,False,West,Mexico
+973,2025-10-25 21:04:54,1028,535,Direct,Medium,WH-3,Regular,Backorder,Satisfied,False,Late,Wire Transfer,False,East,Canada
+648,2025-10-25 22:42:12,1087,511,Reseller,Medium,WH-1,2-Day,Backorder,Neutral,False,Late,Credit Card,True,East,USA
+564,2025-10-25 01:37:18,1055,510,Online,High,WH-1,Regular,Delivered,Satisfied,False,unknown,PayPal,False,North,Canada
+956,2025-10-25 12:58:24,1005,502,Reseller,High,WH-3,Regular,Backorder,Neutral,False,Wrong Item,Cash,True,East,Mexico
+674,2025-10-25 11:21:06,1034,515,Online,Medium,WH-1,2-Day,Cancelled,Satisfied,True,Wrong Item,Credit Card,True,South,Mexico
+679,2025-10-25 16:13:00,1087,548,Partner,Low,WH-3,Express,Backorder,Satisfied,True,Damaged,Wire Transfer,True,South,Mexico
+690,2025-10-25 14:35:42,1053,543,Partner,Critical,WH-1,Express,Pending,Neutral,False,Wrong Item,PayPal,False,East,Canada
+742,2025-10-25 00:00:00,1043,549,Partner,Critical,WH-2,Express,Backorder,Satisfied,False,Damaged,PayPal,True,North,Canada
+855,2025-10-25 01:37:18,1057,508,Reseller,Low,WH-2,2-Day,Backorder,Unsatisfied,True,Damaged,Credit Card,False,South,USA
+433,2025-10-25 16:13:00,1072,506,Partner,Low,WH-1,2-Day,Backorder,Satisfied,False,Damaged,PayPal,True,South,Canada
+147,2025-10-25 22:42:12,1090,519,Online,Low,WH-3,Regular,Backorder,Unsatisfied,True,Damaged,Credit Card,True,North,Canada
+303,2025-10-25 11:21:06,1084,507,Partner,Critical,WH-2,2-Day,Delivered,Satisfied,True,Late,PayPal,False,West,Canada
+216,2025-10-25 22:42:12,1040,508,Reseller,Critical,WH-1,Regular,Pending,Unsatisfied,True,Late,Cash,False,North,Mexico
+858,2025-10-25 01:37:18,1010,506,Partner,Critical,WH-2,Regular,Delivered,Unsatisfied,True,unknown,PayPal,False,East,Canada
+479,2025-10-25 14:35:42,1047,537,Online,Critical,WH-1,Express,Delivered,Neutral,False,Damaged,Credit Card,False,South,USA
+28,2025-10-25 14:35:42,1005,531,Reseller,High,WH-1,Regular,Backorder,Neutral,True,Damaged,Credit Card,True,West,USA
+325,2025-10-25 12:58:24,1076,545,Direct,Medium,WH-2,Overnight,Backorder,Satisfied,True,Damaged,Wire Transfer,False,South,USA
+137,2025-10-25 09:43:48,1082,556,Reseller,Medium,WH-3,Express,Backorder,Satisfied,False,unknown,Credit Card,False,West,Mexico
+232,2025-10-25 09:43:48,1021,541,Online,High,WH-3,Overnight,Backorder,Neutral,False,Damaged,Cash,True,North,Canada
+6,2025-10-25 21:04:54,1049,553,Direct,Medium,WH-1,Express,Delivered,Satisfied,True,Wrong Item,Wire Transfer,True,West,USA
+995,2025-10-25 04:51:54,1040,506,Direct,High,WH-1,Regular,Pending,Unsatisfied,False,Damaged,Credit Card,True,East,Canada
+13,2025-10-25 21:04:54,1059,505,Online,Critical,WH-2,2-Day,Cancelled,Neutral,True,Not Specified,Credit Card,True,East,Mexico
+326,2025-10-25 16:13:00,1099,551,Reseller,High,WH-1,Express,Delivered,Neutral,False,Late,Credit Card,False,South,USA
+708,2025-10-25 19:27:36,1029,514,Direct,Critical,WH-2,2-Day,Cancelled,Satisfied,False,Damaged,Wire Transfer,False,East,Canada
+415,2025-10-25 08:06:30,1047,514,Direct,Critical,WH-2,Overnight,Pending,Unsatisfied,True,Not Specified,Wire Transfer,False,West,Mexico
+568,2025-10-25 14:35:42,1074,517,Direct,High,WH-1,Overnight,Cancelled,Neutral,False,Damaged,Credit Card,True,South,Mexico
+576,2025-10-25 14:35:42,1050,508,Online,Critical,WH-1,Regular,Cancelled,Satisfied,True,Wrong Item,PayPal,False,South,Canada
+171,2025-10-25 11:21:06,1079,525,Partner,Medium,WH-2,Overnight,Cancelled,Neutral,True,Not Specified,Credit Card,False,West,USA
+652,2025-10-25 06:29:12,1014,514,Reseller,Low,WH-2,2-Day,Cancelled,Neutral,False,Not Specified,Cash,False,North,Mexico
+19,2025-10-25 21:04:54,1099,531,Reseller,High,WH-1,Regular,Pending,Neutral,False,Late,Credit Card,False,North,Canada
+350,2025-10-25 22:42:12,1042,559,Reseller,Low,WH-1,Overnight,Cancelled,Satisfied,False,Not Specified,Cash,False,East,Canada
+639,2025-10-25 00:00:00,1053,525,Direct,Medium,WH-3,2-Day,Pending,Unsatisfied,False,unknown,Cash,False,North,Canada
+396,2025-10-25 00:00:00,1086,554,Reseller,Medium,WH-3,Regular,Backorder,Neutral,False,Wrong Item,PayPal,True,East,USA
+463,2025-10-25 22:42:12,1023,541,Partner,Medium,WH-1,2-Day,Cancelled,Neutral,False,Late,PayPal,True,West,USA
+948,2025-10-25 22:42:12,1025,552,Online,Medium,WH-2,2-Day,Pending,Neutral,False,unknown,Cash,True,East,USA
+965,2025-10-25 06:29:12,1048,503,Direct,Critical,WH-3,2-Day,Pending,Neutral,True,Wrong Item,Cash,False,North,Mexico
+220,2025-10-25 12:58:24,1006,518,Online,Medium,WH-3,Overnight,Delivered,Satisfied,True,Damaged,PayPal,True,South,USA
+713,2025-10-25 04:51:54,1036,546,Partner,Medium,WH-1,Overnight,Delivered,Satisfied,False,Late,Credit Card,False,East,Canada
+109,2025-10-25 22:42:12,1053,526,Direct,High,WH-3,Overnight,Backorder,Neutral,False,Damaged,Cash,False,West,Canada
+229,2025-10-25 19:27:36,1033,533,Partner,Low,WH-3,2-Day,Backorder,Neutral,False,Wrong Item,Credit Card,False,South,USA
+893,2025-10-25 22:42:12,1046,552,Reseller,High,WH-2,2-Day,Cancelled,Neutral,False,Not Specified,Credit Card,True,East,USA
+504,2025-10-25 01:37:18,1054,535,Online,Low,WH-3,Express,Pending,Neutral,False,Damaged,PayPal,True,East,Canada
+581,2025-10-25 09:43:48,1057,501,Partner,Critical,WH-3,Regular,Pending,Satisfied,True,Damaged,Cash,True,West,USA
+215,2025-10-25 19:27:36,1008,517,Online,Low,WH-1,2-Day,Pending,Unsatisfied,False,Wrong Item,PayPal,True,East,Canada
+401,2025-10-25 03:14:36,1097,540,Direct,Medium,WH-1,2-Day,Cancelled,Satisfied,True,unknown,Credit Card,True,North,USA
+337,2025-10-25 16:13:00,1014,555,Partner,Critical,WH-3,2-Day,Backorder,Unsatisfied,True,Wrong Item,Credit Card,False,East,USA
+719,2025-10-25 04:51:54,1055,508,Partner,Low,WH-2,Express,Backorder,Satisfied,False,Wrong Item,Credit Card,False,South,Mexico
+775,2025-10-25 19:27:36,1072,508,Direct,High,WH-1,2-Day,Backorder,Satisfied,False,Not Specified,Credit Card,False,South,USA
+676,2025-10-25 00:00:00,1037,536,Reseller,Medium,WH-3,Regular,Backorder,Unsatisfied,True,unknown,PayPal,True,North,Mexico
+452,2025-10-25 11:21:06,1072,511,Reseller,Critical,WH-1,2-Day,Cancelled,Unsatisfied,False,Not Specified,Credit Card,False,East,Mexico
+953,2025-10-25 11:21:06,1079,523,Reseller,Low,WH-1,Overnight,Cancelled,Satisfied,False,Wrong Item,Wire Transfer,True,West,Canada
+941,2025-10-25 09:43:48,1011,539,Reseller,Low,WH-3,Express,Delivered,Unsatisfied,True,Damaged,PayPal,False,West,Mexico
+663,2025-10-25 06:29:12,1098,506,Partner,Critical,WH-1,2-Day,Pending,Satisfied,True,Not Specified,Credit Card,True,East,Mexico
+921,2025-10-25 04:51:54,1049,545,Direct,High,WH-3,Regular,Delivered,Unsatisfied,True,Not Specified,Cash,False,West,Canada
+368,2025-10-25 12:58:24,1066,520,Reseller,Medium,WH-1,Overnight,Delivered,Satisfied,False,Late,Wire Transfer,False,East,USA
+598,2025-10-25 16:13:00,1032,525,Partner,Medium,WH-3,Overnight,Delivered,Neutral,True,Wrong Item,Credit Card,False,West,Canada
+535,2025-10-25 01:37:18,1087,538,Direct,Medium,WH-3,2-Day,Backorder,Satisfied,True,Late,Cash,False,East,Canada
+110,2025-10-25 22:42:12,1066,534,Reseller,Medium,WH-2,2-Day,Pending,Unsatisfied,True,Damaged,Cash,False,East,Mexico
+113,2025-10-25 16:13:00,1075,529,Partner,High,WH-1,Overnight,Backorder,Satisfied,False,Not Specified,Wire Transfer,True,North,Mexico
+984,2025-10-25 19:27:36,1056,549,Reseller,Medium,WH-3,Regular,Cancelled,Unsatisfied,True,Wrong Item,Wire Transfer,False,North,Mexico
+500,2025-10-25 01:37:18,1017,526,Online,High,WH-2,Regular,Pending,Satisfied,True,Damaged,Wire Transfer,False,West,Canada
+660,2025-10-25 11:21:06,1026,508,Online,Medium,WH-1,Overnight,Cancelled,Unsatisfied,False,Late,Wire Transfer,True,East,Mexico
+477,2025-10-25 19:27:36,1015,537,Reseller,Low,WH-3,2-Day,Backorder,Neutral,False,Late,Wire Transfer,False,East,Canada
+359,2025-10-25 12:58:24,1038,533,Partner,Critical,WH-2,2-Day,Cancelled,Neutral,False,Wrong Item,Wire Transfer,False,West,Canada
+482,2025-10-25 01:37:18,1009,549,Direct,Low,WH-1,2-Day,Backorder,Satisfied,True,unknown,PayPal,True,West,Canada
+880,2025-10-25 17:50:18,1015,503,Direct,Critical,WH-2,2-Day,Delivered,Satisfied,True,Late,PayPal,False,West,USA
+828,2025-10-25 16:13:00,1004,503,Online,Critical,WH-1,Overnight,Pending,Satisfied,True,Wrong Item,PayPal,True,East,USA
+432,2025-10-25 14:35:42,1006,539,Direct,Critical,WH-2,Regular,Delivered,Satisfied,False,Late,Cash,True,North,Canada
+290,2025-10-25 21:04:54,1003,539,Online,Critical,WH-1,2-Day,Pending,Satisfied,True,Wrong Item,Wire Transfer,True,South,Canada
+792,2025-10-25 12:58:24,1085,519,Partner,Medium,WH-1,Overnight,Cancelled,Satisfied,True,unknown,Credit Card,False,North,USA
+514,2025-10-25 14:35:42,1063,512,Partner,High,WH-2,Express,Cancelled,Neutral,True,Not Specified,Wire Transfer,False,East,Canada
+499,2025-10-25 09:43:48,1091,520,Direct,Medium,WH-2,Express,Delivered,Unsatisfied,False,Late,PayPal,True,North,Mexico
+988,2025-10-25 06:29:12,1091,545,Direct,Critical,WH-3,2-Day,Delivered,Unsatisfied,True,Late,Cash,False,East,Canada
+24,2025-10-25 09:43:48,1092,543,Online,High,WH-1,2-Day,Delivered,Satisfied,False,Damaged,Cash,True,West,Canada
+604,2025-10-25 19:27:36,1085,531,Online,Medium,WH-1,Express,Pending,Neutral,False,Not Specified,PayPal,False,East,Mexico
+93,2025-10-25 09:43:48,1030,559,Reseller,Critical,WH-1,2-Day,Backorder,Neutral,True,Not Specified,Credit Card,True,North,Mexico
+84,2025-10-25 21:04:54,1091,556,Reseller,Medium,WH-2,Express,Backorder,Unsatisfied,False,Not Specified,Wire Transfer,True,North,Mexico
+640,2025-10-25 12:58:24,1044,533,Direct,Critical,WH-2,Express,Backorder,Unsatisfied,True,Late,Credit Card,True,East,Canada
+544,2025-10-25 11:21:06,1045,555,Online,Critical,WH-1,Regular,Pending,Unsatisfied,True,Wrong Item,Cash,True,East,Canada
+211,2025-10-25 17:50:18,1018,524,Online,High,WH-2,2-Day,Cancelled,Satisfied,False,Damaged,Credit Card,False,East,USA
+911,2025-10-25 04:51:54,1057,516,Direct,Critical,WH-3,Express,Delivered,Neutral,True,Not Specified,Wire Transfer,False,South,Canada
+18,2025-10-25 19:27:36,1098,551,Partner,High,WH-2,2-Day,Pending,Satisfied,True,Wrong Item,Cash,False,North,Canada
+194,2025-10-25 11:21:06,1089,530,Direct,Critical,WH-1,2-Day,Cancelled,Neutral,True,Not Specified,PayPal,True,North,USA
+856,2025-10-25 04:51:54,1016,533,Direct,Medium,WH-3,2-Day,Cancelled,Satisfied,True,Late,Wire Transfer,True,East,Mexico
+607,2025-10-25 00:00:00,1055,504,Reseller,High,WH-3,Express,Cancelled,Unsatisfied,True,Damaged,Wire Transfer,True,West,Mexico
+817,2025-10-25 12:58:24,1045,510,Online,High,WH-2,Regular,Delivered,Unsatisfied,True,Damaged,Wire Transfer,True,North,USA
+252,2025-10-25 06:29:12,1066,540,Online,Medium,WH-1,Overnight,Backorder,Unsatisfied,False,Damaged,Credit Card,True,North,Mexico
+714,2025-10-25 00:00:00,1059,527,Partner,High,WH-3,2-Day,Backorder,Neutral,False,Wrong Item,Wire Transfer,False,East,USA
+582,2025-10-25 08:06:30,1067,519,Online,Medium,WH-1,2-Day,Pending,Unsatisfied,True,Late,Credit Card,False,West,USA
+320,2025-10-25 22:42:12,1050,512,Partner,High,WH-1,Regular,Cancelled,Unsatisfied,True,Damaged,Cash,False,West,Canada
+254,2025-10-25 09:43:48,1092,550,Online,High,WH-2,Express,Pending,Neutral,False,Damaged,Cash,True,West,Mexico
+595,2025-10-25 17:50:18,1096,509,Online,Low,WH-1,Regular,Delivered,Neutral,True,Late,PayPal,False,East,Mexico
+80,2025-10-25 19:27:36,1098,554,Direct,Low,WH-2,2-Day,Delivered,Unsatisfied,True,Not Specified,PayPal,False,West,USA
+874,2025-10-25 00:00:00,1025,508,Direct,Low,WH-3,Express,Delivered,Satisfied,False,Damaged,PayPal,True,North,Mexico
+727,2025-10-25 14:35:42,1083,513,Online,Critical,WH-2,Overnight,Cancelled,Satisfied,True,Not Specified,PayPal,True,West,USA
+845,2025-10-25 06:29:12,1018,539,Online,Critical,WH-3,2-Day,Cancelled,Unsatisfied,True,unknown,Credit Card,False,West,USA
+308,2025-10-25 22:42:12,1009,506,Reseller,High,WH-1,Overnight,Pending,Unsatisfied,False,unknown,Credit Card,False,South,USA
+189,2025-10-25 01:37:18,1018,503,Direct,Critical,WH-3,Overnight,Backorder,Neutral,True,Late,Wire Transfer,False,East,Mexico
+27,2025-10-25 03:14:36,1095,539,Reseller,Medium,WH-3,Overnight,Cancelled,Neutral,True,Damaged,Wire Transfer,True,South,USA
+231,2025-10-25 21:04:54,1022,538,Online,Medium,WH-3,Regular,Delivered,Unsatisfied,True,Damaged,Credit Card,True,East,Canada
+806,2025-10-25 11:21:06,1094,521,Direct,Medium,WH-2,Regular,Backorder,Unsatisfied,True,Late,Wire Transfer,False,East,Mexico
+895,2025-10-25 17:50:18,1011,522,Online,Low,WH-2,Overnight,Backorder,Unsatisfied,True,Wrong Item,Wire Transfer,False,East,Canada
+89,2025-10-25 19:27:36,1038,547,Partner,Critical,WH-2,Overnight,Cancelled,Unsatisfied,True,Damaged,Wire Transfer,False,West,Mexico
+771,2025-10-25 06:29:12,1081,524,Direct,Critical,WH-3,Regular,Delivered,Satisfied,True,Not Specified,Credit Card,False,East,Mexico
+539,2025-10-25 06:29:12,1062,552,Direct,Medium,WH-2,Express,Cancelled,Satisfied,False,Wrong Item,Cash,False,North,USA
+219,2025-10-25 14:35:42,1041,530,Partner,High,WH-3,Overnight,Backorder,Unsatisfied,True,Late,Cash,True,North,Mexico
+610,2025-10-25 14:35:42,1007,546,Online,Critical,WH-1,Express,Cancelled,Unsatisfied,True,Late,Wire Transfer,True,West,USA
+134,2025-10-25 04:51:54,1019,503,Online,Medium,WH-2,Express,Delivered,Satisfied,False,Late,Cash,True,North,Canada
+450,2025-10-25 19:27:36,1005,547,Direct,High,WH-3,Regular,Pending,Neutral,False,Not Specified,Credit Card,False,East,Mexico
+748,2025-10-25 19:27:36,1044,504,Partner,Low,WH-2,2-Day,Pending,Neutral,False,Wrong Item,Wire Transfer,True,West,USA
+213,2025-10-25 11:21:06,1086,511,Direct,Medium,WH-1,Express,Delivered,Neutral,False,Late,Cash,True,West,Mexico
+790,2025-10-25 09:43:48,1023,525,Reseller,High,WH-3,Regular,Delivered,Satisfied,True,Not Specified,Wire Transfer,False,North,Mexico
+982,2025-10-25 22:42:12,1058,512,Reseller,Low,WH-1,Regular,Cancelled,Neutral,False,Late,Credit Card,True,South,Mexico
+68,2025-10-25 06:29:12,1023,504,Online,Medium,WH-2,Regular,Delivered,Unsatisfied,True,Not Specified,Cash,True,West,USA
+520,2025-10-25 08:06:30,1071,559,Partner,Medium,WH-2,Regular,Pending,Satisfied,False,Wrong Item,Wire Transfer,False,North,Mexico
+62,2025-10-25 19:27:36,1005,560,Partner,Critical,WH-2,Express,Backorder,Unsatisfied,True,unknown,Cash,False,East,USA
+351,2025-10-25 12:58:24,1089,503,Online,Low,WH-3,Overnight,Cancelled,Unsatisfied,True,unknown,Wire Transfer,False,South,USA
+955,2025-10-25 00:00:00,1025,545,Reseller,Low,WH-1,2-Day,Backorder,Satisfied,False,Late,PayPal,True,West,USA
+227,2025-10-25 00:00:00,1059,545,Partner,Low,WH-3,Overnight,Delivered,Unsatisfied,True,Late,Cash,False,North,USA
+279,2025-10-25 19:27:36,1012,555,Partner,Medium,WH-3,2-Day,Backorder,Satisfied,True,unknown,PayPal,False,South,Mexico
+257,2025-10-25 22:42:12,1079,502,Online,Low,WH-1,Overnight,Pending,Unsatisfied,False,Wrong Item,PayPal,False,South,Canada
+659,2025-10-25 16:13:00,1004,526,Reseller,Medium,WH-3,Express,Delivered,Satisfied,False,Damaged,Wire Transfer,False,East,Mexico
+497,2025-10-25 14:35:42,1091,509,Online,Medium,WH-2,Express,Delivered,Satisfied,False,Damaged,Credit Card,False,West,Mexico
+282,2025-10-25 17:50:18,1090,540,Online,High,WH-3,Overnight,Pending,Unsatisfied,False,Not Specified,Wire Transfer,False,West,Mexico
+628,2025-10-25 08:06:30,1002,521,Direct,Low,WH-3,Regular,Cancelled,Satisfied,True,Damaged,Cash,True,North,Mexico
+960,2025-10-25 01:37:18,1088,527,Direct,Low,WH-1,Express,Delivered,Neutral,False,Wrong Item,Cash,True,West,Canada
+534,2025-10-25 11:21:06,1094,544,Direct,Critical,WH-2,Overnight,Delivered,Neutral,True,Not Specified,Cash,True,North,Canada
+502,2025-10-25 19:27:36,1059,501,Direct,Low,WH-1,Overnight,Delivered,Satisfied,False,Wrong Item,Cash,True,South,Canada
+148,2025-10-25 16:13:00,1046,557,Reseller,High,WH-3,2-Day,Delivered,Neutral,True,Late,Credit Card,True,North,Canada
+759,2025-10-25 14:35:42,1074,513,Partner,Medium,WH-2,2-Day,Pending,Unsatisfied,True,Late,Cash,True,East,Canada
+603,2025-10-25 22:42:12,1054,513,Partner,Medium,WH-1,Regular,Pending,Unsatisfied,False,Wrong Item,Wire Transfer,True,South,Mexico
+263,2025-10-25 04:51:54,1066,533,Partner,Low,WH-1,Regular,Delivered,Unsatisfied,False,Late,Wire Transfer,False,West,Mexico
+65,2025-10-25 01:37:18,1057,537,Reseller,High,WH-1,Regular,Pending,Unsatisfied,True,Late,Credit Card,True,South,Mexico
+185,2025-10-25 06:29:12,1056,553,Direct,High,WH-2,Express,Delivered,Satisfied,True,unknown,PayPal,True,North,Mexico
+738,2025-10-25 22:42:12,1017,513,Online,Low,WH-1,Regular,Cancelled,Unsatisfied,False,Late,Wire Transfer,True,North,Canada
+920,2025-10-25 00:00:00,1087,530,Online,Low,WH-1,Express,Cancelled,Satisfied,False,Late,Cash,False,East,Canada
+711,2025-10-25 06:29:12,1040,553,Direct,High,WH-2,Regular,Backorder,Unsatisfied,False,Not Specified,Credit Card,True,East,Mexico
+25,2025-10-25 09:43:48,1081,553,Online,Critical,WH-2,2-Day,Pending,Satisfied,False,Damaged,PayPal,False,North,Canada
+319,2025-10-25 16:13:00,1060,554,Online,High,WH-2,2-Day,Delivered,Neutral,True,Damaged,Credit Card,True,South,Canada
+778,2025-10-25 11:21:06,1089,549,Reseller,Medium,WH-1,Regular,Cancelled,Unsatisfied,False,Late,Wire Transfer,False,East,Canada
+473,2025-10-25 11:21:06,1063,520,Direct,Critical,WH-3,2-Day,Pending,Unsatisfied,False,unknown,Credit Card,False,South,Canada
+7,2025-10-25 21:04:54,1011,542,Reseller,Critical,WH-3,Overnight,Delivered,Neutral,False,Wrong Item,Wire Transfer,False,East,Mexico
+20,2025-10-25 06:29:12,1001,523,Reseller,Critical,WH-1,Overnight,Cancelled,Neutral,False,unknown,Wire Transfer,True,West,Canada
+904,2025-10-25 04:51:54,1072,557,Online,Medium,WH-1,Overnight,Cancelled,Satisfied,False,Wrong Item,PayPal,False,North,Canada
+833,2025-10-25 09:43:48,1082,549,Direct,High,WH-3,Express,Backorder,Unsatisfied,False,Wrong Item,Cash,True,North,USA
+86,2025-10-25 17:50:18,1063,518,Reseller,Medium,WH-2,Regular,Backorder,Satisfied,False,Late,Wire Transfer,False,West,USA
+190,2025-10-25 17:50:18,1038,520,Reseller,High,WH-2,Overnight,Cancelled,Neutral,True,Late,Cash,False,West,USA
+79,2025-10-25 09:43:48,1050,510,Reseller,Low,WH-3,Regular,Pending,Neutral,False,Wrong Item,Credit Card,True,South,Canada
+349,2025-10-25 19:27:36,1089,541,Online,Critical,WH-3,Regular,Cancelled,Neutral,True,Wrong Item,PayPal,False,South,Mexico
+33,2025-10-25 14:35:42,1037,513,Partner,Medium,WH-3,2-Day,Cancelled,Neutral,False,Wrong Item,PayPal,False,South,USA
+355,2025-10-25 19:27:36,1039,535,Direct,Medium,WH-2,Regular,Backorder,Neutral,True,Not Specified,Credit Card,True,North,USA
+531,2025-10-25 00:00:00,1001,543,Direct,Low,WH-2,Overnight,Delivered,Satisfied,True,Late,Credit Card,False,South,Canada
+645,2025-10-25 22:42:12,1074,544,Reseller,Low,WH-2,2-Day,Delivered,Satisfied,True,Late,PayPal,True,East,Mexico
+743,2025-10-25 04:51:54,1042,542,Reseller,High,WH-3,Overnight,Backorder,Neutral,False,Not Specified,Cash,True,West,Canada
+421,2025-10-25 12:58:24,1095,545,Partner,Low,WH-2,2-Day,Cancelled,Unsatisfied,False,Wrong Item,Cash,True,West,USA
+551,2025-10-25 06:29:12,1001,529,Partner,Low,WH-2,Express,Backorder,Neutral,False,Wrong Item,Wire Transfer,False,West,Mexico
+695,2025-10-25 00:00:00,1026,560,Partner,High,WH-1,Overnight,Backorder,Neutral,True,Not Specified,Cash,False,West,USA
+590,2025-10-25 09:43:48,1097,526,Partner,Critical,WH-3,Regular,Cancelled,Neutral,True,Wrong Item,PayPal,False,South,USA
+165,2025-10-25 11:21:06,1026,544,Direct,High,WH-2,2-Day,Cancelled,Neutral,False,Not Specified,Credit Card,False,South,Canada
+848,2025-10-25 19:27:36,1099,536,Online,High,WH-3,2-Day,Backorder,Satisfied,False,Not Specified,Cash,False,East,Canada
+705,2025-10-25 06:29:12,1053,522,Direct,Low,WH-1,Express,Delivered,Satisfied,False,unknown,Wire Transfer,False,North,Canada
+47,2025-10-25 04:51:54,1065,534,Partner,Medium,WH-1,Overnight,Cancelled,Neutral,False,Not Specified,Wire Transfer,True,West,Mexico
+402,2025-10-25 11:21:06,1038,521,Online,High,WH-2,2-Day,Pending,Neutral,True,Wrong Item,Wire Transfer,True,East,USA
+864,2025-10-25 16:13:00,1094,560,Online,Low,WH-1,Regular,Delivered,Satisfied,True,Wrong Item,Wire Transfer,True,East,Mexico
+392,2025-10-25 04:51:54,1027,542,Reseller,High,WH-3,2-Day,Pending,Unsatisfied,True,unknown,PayPal,True,South,Mexico
+429,2025-10-25 09:43:48,1011,525,Partner,Medium,WH-3,Regular,Pending,Neutral,False,Not Specified,Wire Transfer,False,South,Mexico
+952,2025-10-25 04:51:54,1009,533,Direct,Low,WH-2,Regular,Cancelled,Satisfied,False,Damaged,Wire Transfer,True,West,USA
+796,2025-10-25 01:37:18,1079,555,Online,Low,WH-1,Express,Cancelled,Unsatisfied,True,unknown,PayPal,False,South,Mexico
+608,2025-10-25 16:13:00,1048,534,Reseller,High,WH-1,Regular,Pending,Unsatisfied,False,Late,Wire Transfer,False,South,Canada
+395,2025-10-25 16:13:00,1068,558,Online,Critical,WH-3,Express,Pending,Unsatisfied,True,Not Specified,Wire Transfer,True,North,Canada
+512,2025-10-25 17:50:18,1049,551,Online,High,WH-2,Regular,Delivered,Unsatisfied,True,Wrong Item,Credit Card,True,West,Mexico
+383,2025-10-25 08:06:30,1029,553,Reseller,Critical,WH-1,2-Day,Pending,Satisfied,True,Not Specified,PayPal,True,East,USA
+131,2025-10-25 01:37:18,1050,522,Partner,Low,WH-2,Overnight,Backorder,Neutral,False,Wrong Item,Cash,False,South,Mexico
+554,2025-10-25 08:06:30,1066,505,Online,High,WH-3,Overnight,Backorder,Neutral,True,Late,Wire Transfer,True,West,Mexico
+638,2025-10-25 11:21:06,1098,529,Online,Critical,WH-1,2-Day,Cancelled,Unsatisfied,False,Wrong Item,PayPal,True,North,Mexico
+172,2025-10-25 03:14:36,1047,517,Partner,Low,WH-3,Overnight,Delivered,Unsatisfied,False,unknown,Wire Transfer,True,North,Canada
+276,2025-10-25 14:35:42,1084,515,Online,High,WH-2,Express,Delivered,Unsatisfied,False,Damaged,Cash,False,East,Mexico
+573,2025-10-25 19:27:36,1055,549,Reseller,Medium,WH-2,Regular,Backorder,Unsatisfied,True,Damaged,Credit Card,False,East,USA
+802,2025-10-25 08:06:30,1087,544,Direct,Low,WH-2,2-Day,Backorder,Satisfied,False,unknown,Wire Transfer,True,South,Mexico
+457,2025-10-25 01:37:18,1029,516,Online,High,WH-2,2-Day,Backorder,Unsatisfied,False,Damaged,Credit Card,True,West,Canada
+414,2025-10-25 01:37:18,1029,514,Reseller,Low,WH-1,Regular,Pending,Satisfied,True,Damaged,PayPal,False,East,Mexico
+269,2025-10-25 14:35:42,1045,502,Partner,Medium,WH-1,2-Day,Delivered,Satisfied,False,Not Specified,Wire Transfer,False,South,Canada
+773,2025-10-25 14:35:42,1080,557,Online,High,WH-2,Express,Cancelled,Satisfied,True,Wrong Item,Cash,True,North,Canada
+175,2025-10-25 19:27:36,1014,508,Direct,Critical,WH-3,Regular,Pending,Unsatisfied,False,Not Specified,Cash,True,West,Canada
+726,2025-10-25 21:04:54,1020,549,Direct,Critical,WH-2,Overnight,Delivered,Unsatisfied,False,Damaged,Cash,False,West,Canada
+43,2025-10-25 14:35:42,1045,541,Online,High,WH-3,Express,Backorder,Neutral,True,Wrong Item,Cash,True,West,Canada
+888,2025-10-25 21:04:54,1043,517,Online,Low,WH-1,2-Day,Pending,Neutral,True,Wrong Item,Credit Card,False,North,Mexico
+680,2025-10-25 21:04:54,1086,523,Reseller,Critical,WH-1,2-Day,Backorder,Neutral,False,Damaged,Wire Transfer,True,North,USA
+913,2025-10-25 19:27:36,1041,517,Reseller,High,WH-1,Regular,Backorder,Satisfied,True,Damaged,Cash,False,West,Canada
+287,2025-10-25 21:04:54,1011,509,Reseller,Low,WH-3,Regular,Pending,Neutral,False,Not Specified,Cash,True,West,Canada
+780,2025-10-25 03:14:36,1015,527,Reseller,High,WH-3,Overnight,Cancelled,Unsatisfied,False,Not Specified,Credit Card,True,East,USA
+14,2025-10-25 01:37:18,1027,543,Direct,Critical,WH-2,Express,Backorder,Neutral,True,Damaged,Cash,False,North,Canada
+212,2025-10-25 22:42:12,1100,508,Reseller,Medium,WH-3,2-Day,Backorder,Satisfied,False,Wrong Item,Credit Card,False,South,Canada
+919,2025-10-25 00:00:00,1047,516,Direct,Medium,WH-1,Regular,Delivered,Unsatisfied,False,Not Specified,Cash,False,South,USA
+2,2025-10-25 03:14:36,1033,513,Partner,High,WH-1,2-Day,Cancelled,Neutral,True,Damaged,PayPal,True,West,Mexico
+467,2025-10-25 21:04:54,1090,508,Direct,Critical,WH-2,2-Day,Pending,Unsatisfied,True,Damaged,Cash,False,North,USA
+101,2025-10-25 00:00:00,1017,506,Direct,Medium,WH-2,Regular,Delivered,Satisfied,False,Not Specified,PayPal,True,South,Mexico
+972,2025-10-25 00:00:00,1077,506,Online,Medium,WH-1,Regular,Delivered,Neutral,False,Damaged,Credit Card,False,East,USA
+26,2025-10-25 17:50:18,1069,530,Direct,Critical,WH-1,Overnight,Delivered,Unsatisfied,True,unknown,Wire Transfer,False,North,Mexico
+974,2025-10-25 19:27:36,1069,522,Reseller,Critical,WH-1,2-Day,Cancelled,Neutral,False,Wrong Item,PayPal,True,South,Mexico
+312,2025-10-25 19:27:36,1038,503,Partner,Low,WH-2,Express,Cancelled,Neutral,True,Not Specified,Wire Transfer,False,East,USA
+818,2025-10-25 21:04:54,1098,509,Direct,Critical,WH-2,Overnight,Delivered,Satisfied,True,Damaged,Wire Transfer,False,North,Canada
+686,2025-10-25 01:37:18,1091,543,Partner,High,WH-2,Overnight,Delivered,Unsatisfied,False,Late,Credit Card,False,West,Canada
+550,2025-10-25 19:27:36,1018,508,Reseller,Medium,WH-2,Regular,Pending,Unsatisfied,True,unknown,Credit Card,False,East,Mexico
+285,2025-10-25 12:58:24,1038,559,Reseller,High,WH-3,Regular,Delivered,Neutral,False,Damaged,Wire Transfer,False,North,Mexico
+106,2025-10-25 09:43:48,1069,511,Online,Medium,WH-2,Express,Backorder,Neutral,False,Wrong Item,PayPal,False,North,Mexico
+986,2025-10-25 03:14:36,1098,538,Partner,Low,WH-1,Regular,Pending,Satisfied,False,Damaged,PayPal,False,East,Mexico
+105,2025-10-25 08:06:30,1088,551,Partner,Medium,WH-3,Regular,Pending,Neutral,False,Late,Credit Card,True,West,Mexico
+58,2025-10-25 06:29:12,1050,541,Reseller,Low,WH-3,2-Day,Backorder,Satisfied,True,Late,Wire Transfer,False,South,USA
+683,2025-10-25 03:14:36,1057,550,Reseller,High,WH-1,Express,Backorder,Unsatisfied,True,Late,PayPal,False,West,Mexico
+328,2025-10-25 14:35:42,1001,519,Reseller,Low,WH-2,Regular,Delivered,Unsatisfied,True,Late,Cash,True,East,Mexico
+559,2025-10-25 06:29:12,1063,501,Direct,Critical,WH-3,Express,Pending,Unsatisfied,True,Wrong Item,Cash,False,East,Canada
+644,2025-10-25 21:04:54,1081,535,Direct,High,WH-3,2-Day,Backorder,Satisfied,True,Late,Credit Card,False,East,Canada
+975,2025-10-25 08:06:30,1077,543,Online,High,WH-2,Express,Pending,Unsatisfied,True,Not Specified,Cash,True,West,Mexico
+461,2025-10-25 03:14:36,1086,512,Partner,Critical,WH-2,2-Day,Delivered,Neutral,True,Late,PayPal,True,North,Canada
+249,2025-10-25 17:50:18,1024,520,Online,Critical,WH-2,2-Day,Backorder,Neutral,True,unknown,Cash,True,North,Canada
+615,2025-10-25 22:42:12,1085,534,Reseller,Medium,WH-3,2-Day,Delivered,Satisfied,False,Late,Cash,True,West,Mexico
+934,2025-10-25 09:43:48,1099,530,Partner,Medium,WH-3,2-Day,Cancelled,Satisfied,False,Wrong Item,Cash,True,West,USA
+144,2025-10-25 00:00:00,1001,559,Partner,High,WH-3,Regular,Cancelled,Neutral,False,Damaged,PayPal,False,West,USA
+540,2025-10-25 11:21:06,1032,516,Online,Low,WH-2,Regular,Pending,Satisfied,True,Damaged,Cash,False,South,USA
+741,2025-10-25 22:42:12,1061,556,Reseller,Medium,WH-3,2-Day,Pending,Satisfied,True,Not Specified,Wire Transfer,True,North,USA
+811,2025-10-25 11:21:06,1017,515,Reseller,High,WH-1,2-Day,Pending,Neutral,True,Damaged,PayPal,True,West,Canada
+75,2025-10-25 17:50:18,1038,517,Partner,High,WH-2,Express,Pending,Unsatisfied,False,Damaged,PayPal,False,South,Canada
+266,2025-10-25 09:43:48,1008,526,Direct,High,WH-3,Regular,Cancelled,Satisfied,True,Late,Credit Card,True,West,USA
+580,2025-10-25 03:14:36,1065,533,Partner,Critical,WH-2,2-Day,Backorder,Unsatisfied,True,Damaged,Cash,True,South,USA
+991,2025-10-25 08:06:30,1006,524,Online,Low,WH-1,Express,Pending,Neutral,True,Not Specified,PayPal,False,East,Canada
+400,2025-10-25 03:14:36,1074,518,Direct,Low,WH-1,Regular,Cancelled,Unsatisfied,False,Not Specified,Cash,True,North,USA
+259,2025-10-25 21:04:54,1094,533,Reseller,High,WH-1,Express,Cancelled,Satisfied,False,Damaged,Cash,False,East,Canada
+914,2025-10-25 00:00:00,1003,516,Online,High,WH-3,2-Day,Cancelled,Unsatisfied,False,Late,Cash,True,East,Mexico
+12,2025-10-25 16:13:00,1086,507,Direct,High,WH-3,Regular,Delivered,Unsatisfied,True,unknown,Credit Card,False,North,USA
+268,2025-10-25 12:58:24,1051,539,Partner,High,WH-1,Express,Pending,Unsatisfied,False,Not Specified,PayPal,True,East,USA
+979,2025-10-25 19:27:36,1096,537,Direct,High,WH-2,Overnight,Pending,Unsatisfied,False,Late,Wire Transfer,True,West,USA
+868,2025-10-25 19:27:36,1014,544,Partner,High,WH-3,Regular,Backorder,Unsatisfied,True,Not Specified,PayPal,False,South,Canada
+239,2025-10-25 01:37:18,1062,517,Reseller,Low,WH-3,Express,Pending,Satisfied,False,Not Specified,PayPal,False,North,Canada
+274,2025-10-25 03:14:36,1068,558,Reseller,Critical,WH-2,2-Day,Cancelled,Neutral,True,Wrong Item,PayPal,True,North,Mexico
+942,2025-10-25 21:04:54,1056,532,Partner,Low,WH-3,Overnight,Delivered,Unsatisfied,False,Not Specified,Cash,False,North,Mexico
+300,2025-10-25 04:51:54,1013,520,Direct,Low,WH-1,2-Day,Backorder,Satisfied,False,Late,Credit Card,False,South,USA
+616,2025-10-25 19:27:36,1019,518,Online,Critical,WH-3,Overnight,Delivered,Unsatisfied,False,Damaged,PayPal,True,West,Canada
+1000,2025-10-25 03:14:36,1048,514,Direct,High,WH-3,Regular,Backorder,Unsatisfied,False,Wrong Item,Wire Transfer,False,South,Mexico
+786,2025-10-25 03:14:36,1010,536,Direct,High,WH-2,2-Day,Delivered,Neutral,False,Wrong Item,Cash,True,East,USA
+907,2025-10-25 12:58:24,1063,542,Reseller,Medium,WH-2,2-Day,Pending,Unsatisfied,False,Not Specified,PayPal,False,South,USA
+275,2025-10-25 16:13:00,1019,550,Reseller,High,WH-1,Overnight,Backorder,Satisfied,True,Not Specified,Cash,True,East,Mexico
+739,2025-10-25 06:29:12,1001,531,Online,Low,WH-2,2-Day,Pending,Neutral,False,Late,Cash,True,South,USA
+77,2025-10-25 08:06:30,1098,522,Direct,Medium,WH-2,Express,Pending,Satisfied,True,Not Specified,Cash,False,South,USA
+918,2025-10-25 01:37:18,1054,503,Online,Critical,WH-3,Regular,Backorder,Satisfied,False,Damaged,Credit Card,False,South,USA
+839,2025-10-25 11:21:06,1099,519,Online,Medium,WH-2,Overnight,Backorder,Neutral,True,Damaged,PayPal,False,East,USA
+288,2025-10-25 09:43:48,1100,506,Direct,Medium,WH-2,Overnight,Backorder,Neutral,False,Damaged,PayPal,True,West,Mexico
+733,2025-10-25 09:43:48,1026,507,Direct,Critical,WH-1,2-Day,Delivered,Neutral,False,Wrong Item,Cash,True,West,USA
+736,2025-10-25 01:37:18,1073,510,Reseller,Critical,WH-2,Regular,Delivered,Satisfied,False,Wrong Item,PayPal,True,North,USA
+623,2025-10-25 17:50:18,1001,501,Online,High,WH-3,Express,Delivered,Neutral,False,Damaged,Cash,False,West,Mexico
+411,2025-10-25 01:37:18,1029,523,Direct,Low,WH-2,Regular,Pending,Satisfied,True,Damaged,Credit Card,True,East,Mexico
+999,2025-10-25 06:29:12,1059,552,Partner,Critical,WH-1,Express,Backorder,Unsatisfied,True,Damaged,Wire Transfer,True,South,Mexico
+740,2025-10-25 08:06:30,1089,507,Reseller,Medium,WH-3,Overnight,Delivered,Satisfied,True,Wrong Item,Wire Transfer,False,East,Canada
+240,2025-10-25 17:50:18,1094,512,Online,Low,WH-1,Regular,Backorder,Satisfied,False,Late,Cash,True,South,Canada
+342,2025-10-25 04:51:54,1037,506,Reseller,Critical,WH-1,Express,Delivered,Neutral,True,Not Specified,Credit Card,False,West,Mexico
+832,2025-10-25 03:14:36,1013,541,Reseller,Medium,WH-2,Overnight,Cancelled,Unsatisfied,False,Late,Wire Transfer,False,East,Canada
+505,2025-10-25 08:06:30,1024,506,Online,Medium,WH-3,Overnight,Pending,Unsatisfied,False,Wrong Item,Wire Transfer,True,South,USA
+39,2025-10-25 04:51:54,1078,513,Online,High,WH-2,Regular,Cancelled,Satisfied,False,Late,Credit Card,False,East,Canada
+570,2025-10-25 04:51:54,1034,508,Direct,Low,WH-1,Overnight,Delivered,Neutral,False,Late,Wire Transfer,True,South,USA
+323,2025-10-25 14:35:42,1009,513,Online,Low,WH-1,Express,Pending,Satisfied,True,Wrong Item,Credit Card,False,East,USA
+297,2025-10-25 14:35:42,1010,508,Partner,Medium,WH-1,Overnight,Cancelled,Unsatisfied,False,unknown,Cash,True,South,Canada
+981,2025-10-25 03:14:36,1093,542,Direct,Critical,WH-3,2-Day,Backorder,Unsatisfied,True,unknown,Wire Transfer,True,South,Canada
+562,2025-10-25 12:58:24,1008,526,Direct,Medium,WH-1,Overnight,Pending,Neutral,False,Late,Wire Transfer,False,North,Mexico
+284,2025-10-25 12:58:24,1064,503,Online,Medium,WH-3,Express,Delivered,Satisfied,True,Not Specified,Credit Card,False,East,Canada
+619,2025-10-25 09:43:48,1029,523,Direct,High,WH-1,Regular,Delivered,Neutral,False,Not Specified,Wire Transfer,False,South,Mexico
+769,2025-10-25 03:14:36,1095,515,Online,High,WH-3,Overnight,Backorder,Neutral,True,Damaged,Credit Card,False,West,Canada
+922,2025-10-25 21:04:54,1009,523,Direct,Critical,WH-2,Overnight,Pending,Unsatisfied,True,Damaged,Credit Card,True,North,Mexico
+838,2025-10-25 09:43:48,1055,546,Direct,Critical,WH-3,Regular,Delivered,Unsatisfied,False,Late,Wire Transfer,True,East,Mexico
+503,2025-10-25 06:29:12,1051,555,Online,Medium,WH-1,2-Day,Delivered,Satisfied,True,Not Specified,Cash,False,East,Canada
+161,2025-10-25 09:43:48,1063,524,Direct,Low,WH-1,Overnight,Backorder,Satisfied,False,Not Specified,Cash,False,South,Mexico
+156,2025-10-25 14:35:42,1026,515,Direct,High,WH-2,Express,Cancelled,Neutral,True,Not Specified,PayPal,False,West,Mexico
+664,2025-10-25 16:13:00,1087,528,Partner,Critical,WH-2,Overnight,Backorder,Satisfied,True,Late,PayPal,False,East,Canada
+827,2025-10-25 01:37:18,1015,518,Partner,Low,WH-3,Express,Backorder,Unsatisfied,False,Late,Wire Transfer,False,West,Canada
+85,2025-10-25 19:27:36,1051,559,Partner,Medium,WH-1,Regular,Pending,Satisfied,True,unknown,Cash,True,West,USA
+92,2025-10-25 06:29:12,1079,536,Direct,Low,WH-1,Regular,Backorder,Satisfied,False,Late,Credit Card,False,South,Mexico
+293,2025-10-25 01:37:18,1050,541,Reseller,Low,WH-1,2-Day,Pending,Satisfied,False,Late,PayPal,True,South,Mexico
+87,2025-10-25 17:50:18,1098,550,Direct,Medium,WH-1,Regular,Cancelled,Satisfied,True,Wrong Item,Cash,True,East,Mexico
+959,2025-10-25 09:43:48,1098,502,Online,Medium,WH-1,Regular,Pending,Satisfied,True,Damaged,Cash,True,West,Mexico
+454,2025-10-25 21:04:54,1031,503,Partner,Low,WH-2,Express,Delivered,Unsatisfied,False,unknown,PayPal,True,South,USA
+523,2025-10-25 12:58:24,1049,525,Partner,Critical,WH-2,Express,Cancelled,Neutral,False,Damaged,PayPal,False,North,USA
+264,2025-10-25 14:35:42,1079,513,Partner,Medium,WH-1,2-Day,Delivered,Unsatisfied,False,Late,Wire Transfer,True,East,Mexico
+951,2025-10-25 17:50:18,1042,536,Direct,Low,WH-3,Express,Delivered,Satisfied,True,Not Specified,PayPal,False,North,Canada
+332,2025-10-25 16:13:00,1060,545,Online,Critical,WH-2,2-Day,Cancelled,Satisfied,True,Wrong Item,Wire Transfer,False,West,Mexico
+763,2025-10-25 08:06:30,1012,521,Online,Critical,WH-2,Overnight,Cancelled,Neutral,False,Late,Credit Card,True,West,USA
+824,2025-10-25 00:00:00,1055,535,Direct,High,WH-1,Regular,Delivered,Satisfied,False,Not Specified,Credit Card,True,East,USA
+121,2025-10-25 14:35:42,1004,555,Reseller,Low,WH-3,2-Day,Backorder,Satisfied,True,Not Specified,PayPal,True,East,USA
+821,2025-10-25 00:00:00,1043,557,Reseller,High,WH-2,Overnight,Delivered,Unsatisfied,True,Late,PayPal,False,West,USA
+42,2025-10-25 16:13:00,1051,549,Direct,Low,WH-1,Overnight,Pending,Satisfied,False,Wrong Item,Wire Transfer,False,West,Canada
+681,2025-10-25 14:35:42,1085,506,Reseller,Medium,WH-3,Regular,Cancelled,Satisfied,True,Not Specified,Wire Transfer,True,East,Mexico
+685,2025-10-25 14:35:42,1006,559,Reseller,Medium,WH-1,2-Day,Cancelled,Unsatisfied,True,Wrong Item,PayPal,False,West,USA
+123,2025-10-25 08:06:30,1056,529,Online,Low,WH-2,Express,Backorder,Unsatisfied,False,Late,Wire Transfer,True,West,USA
+737,2025-10-25 09:43:48,1040,539,Reseller,Low,WH-2,Regular,Pending,Unsatisfied,False,Wrong Item,PayPal,False,West,Mexico
+536,2025-10-25 09:43:48,1051,520,Direct,Medium,WH-3,Express,Delivered,Satisfied,False,Wrong Item,Cash,False,East,Canada
+382,2025-10-25 06:29:12,1015,558,Direct,Medium,WH-1,Regular,Delivered,Satisfied,True,Late,Credit Card,False,South,Canada
+929,2025-10-25 16:13:00,1062,540,Online,Low,WH-3,Regular,Cancelled,Unsatisfied,False,Late,Cash,True,South,USA
+926,2025-10-25 17:50:18,1035,554,Reseller,High,WH-2,2-Day,Cancelled,Satisfied,False,Late,PayPal,True,South,USA
+696,2025-10-25 21:04:54,1085,515,Online,High,WH-2,Regular,Cancelled,Neutral,False,Wrong Item,Cash,False,North,Canada
+633,2025-10-25 00:00:00,1005,507,Partner,Medium,WH-1,Regular,Cancelled,Satisfied,True,unknown,PayPal,False,East,USA
+491,2025-10-25 19:27:36,1090,544,Direct,Medium,WH-1,Regular,Delivered,Satisfied,False,Damaged,Cash,True,West,Canada
+794,2025-10-25 09:43:48,1007,510,Partner,High,WH-2,Express,Cancelled,Neutral,True,unknown,PayPal,True,West,Mexico
+917,2025-10-25 11:21:06,1005,520,Online,Medium,WH-2,Overnight,Delivered,Satisfied,False,Not Specified,Cash,True,South,Canada
+609,2025-10-25 04:51:54,1082,538,Partner,High,WH-1,Express,Delivered,Unsatisfied,False,Damaged,Wire Transfer,False,South,USA
+271,2025-10-25 21:04:54,1005,539,Partner,Low,WH-1,Regular,Backorder,Unsatisfied,True,Wrong Item,Cash,False,North,USA
+91,2025-10-25 12:58:24,1088,512,Online,High,WH-1,Regular,Pending,Satisfied,True,Late,PayPal,True,South,Mexico
+992,2025-10-25 04:51:54,1088,542,Reseller,Critical,WH-3,Regular,Cancelled,Unsatisfied,False,Late,Cash,True,North,Canada
+879,2025-10-25 09:43:48,1073,558,Direct,Critical,WH-1,2-Day,Backorder,Satisfied,True,Damaged,PayPal,True,North,USA
+380,2025-10-25 12:58:24,1042,541,Direct,Critical,WH-3,Overnight,Cancelled,Satisfied,True,unknown,Wire Transfer,False,East,Mexico
+993,2025-10-25 00:00:00,1019,530,Reseller,High,WH-3,Regular,Delivered,Neutral,True,Damaged,Wire Transfer,True,West,Canada
+394,2025-10-25 01:37:18,1033,551,Partner,High,WH-3,Express,Cancelled,Satisfied,False,Late,Credit Card,False,East,USA
+517,2025-10-25 16:13:00,1028,553,Online,Medium,WH-3,Overnight,Delivered,Satisfied,True,Not Specified,Wire Transfer,True,East,Mexico
+480,2025-10-25 04:51:54,1073,512,Online,High,WH-1,Express,Pending,Satisfied,False,Wrong Item,PayPal,False,East,Mexico
+588,2025-10-25 14:35:42,1067,505,Reseller,High,WH-2,Regular,Delivered,Satisfied,False,Damaged,PayPal,True,West,Canada
+506,2025-10-25 03:14:36,1025,537,Direct,Medium,WH-3,Regular,Pending,Satisfied,True,Wrong Item,Credit Card,True,North,Canada
+201,2025-10-25 22:42:12,1090,509,Reseller,Medium,WH-3,Express,Backorder,Unsatisfied,True,unknown,Wire Transfer,False,South,Mexico
+900,2025-10-25 09:43:48,1071,513,Online,High,WH-1,2-Day,Backorder,Unsatisfied,False,Wrong Item,Wire Transfer,True,East,Mexico
+898,2025-10-25 00:00:00,1098,536,Direct,Medium,WH-2,Regular,Pending,Neutral,False,Damaged,Wire Transfer,False,East,Mexico
+317,2025-10-25 06:29:12,1069,511,Direct,Low,WH-1,Regular,Delivered,Neutral,False,Damaged,PayPal,False,North,USA
+167,2025-10-25 11:21:06,1001,527,Partner,Medium,WH-1,Regular,Delivered,Satisfied,True,Damaged,Cash,True,North,Canada
+1,2025-10-25 03:14:36,1005,541,Online,Medium,WH-2,2-Day,Backorder,Satisfied,False,Not Specified,Cash,True,East,USA
+998,2025-10-25 19:27:36,1059,507,Online,Critical,WH-1,Express,Cancelled,Unsatisfied,True,Late,PayPal,True,South,Canada
+195,2025-10-25 06:29:12,1028,514,Direct,Medium,WH-3,Express,Delivered,Satisfied,False,Not Specified,Credit Card,True,North,Canada
+977,2025-10-25 14:35:42,1040,522,Partner,Medium,WH-2,Express,Delivered,Neutral,False,Damaged,Cash,False,West,USA
+718,2025-10-25 01:37:18,1098,535,Reseller,Critical,WH-2,Overnight,Backorder,Satisfied,True,Not Specified,Cash,True,West,Canada
+53,2025-10-25 11:21:06,1039,506,Reseller,Critical,WH-3,Overnight,Cancelled,Neutral,False,Not Specified,Credit Card,True,South,Canada
+532,2025-10-25 17:50:18,1096,550,Partner,High,WH-2,Overnight,Pending,Satisfied,False,Late,Cash,False,North,Canada
+399,2025-10-25 00:00:00,1005,545,Partner,High,WH-1,Express,Backorder,Unsatisfied,True,Wrong Item,PayPal,True,South,Canada
+758,2025-10-25 16:13:00,1017,559,Reseller,High,WH-3,Express,Delivered,Unsatisfied,False,Late,Cash,True,West,Canada
+808,2025-10-25 11:21:06,1099,522,Direct,Low,WH-2,2-Day,Backorder,Satisfied,True,Not Specified,Wire Transfer,False,North,Canada
+29,2025-10-25 17:50:18,1003,518,Reseller,Medium,WH-2,Express,Cancelled,Satisfied,False,Damaged,PayPal,True,West,Canada
+440,2025-10-25 00:00:00,1013,535,Direct,Critical,WH-2,Regular,Pending,Satisfied,False,unknown,Cash,False,West,USA
+270,2025-10-25 14:35:42,1044,538,Partner,Medium,WH-2,2-Day,Delivered,Unsatisfied,False,Wrong Item,Credit Card,False,West,USA
+837,2025-10-25 03:14:36,1066,560,Online,High,WH-2,2-Day,Cancelled,Neutral,False,Damaged,Credit Card,True,South,USA
+333,2025-10-25 17:50:18,1064,508,Partner,Low,WH-1,2-Day,Pending,Neutral,False,Damaged,PayPal,False,North,USA
+894,2025-10-25 01:37:18,1088,508,Reseller,High,WH-2,Express,Cancelled,Unsatisfied,False,Not Specified,Cash,False,West,Mexico
+345,2025-10-25 09:43:48,1078,522,Online,Critical,WH-1,Overnight,Delivered,Unsatisfied,False,Damaged,Cash,False,South,Mexico
+487,2025-10-25 04:51:54,1041,528,Direct,Low,WH-2,Overnight,Delivered,Unsatisfied,True,Late,Wire Transfer,True,South,Canada
+250,2025-10-25 22:42:12,1095,533,Reseller,Medium,WH-3,Express,Delivered,Unsatisfied,True,Damaged,Credit Card,True,South,Canada
+4,2025-10-25 22:42:12,1018,545,Direct,Low,WH-1,2-Day,Backorder,Unsatisfied,True,Not Specified,Cash,True,East,Canada
